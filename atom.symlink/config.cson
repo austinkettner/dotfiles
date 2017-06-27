@@ -38,10 +38,15 @@
       "vendor"
     ]
     telemetryConsent: "no"
+    themes: [
+      "one-light-ui"
+      "flatwhite-syntax"
+    ]
   editor:
-    fontFamily: "Menlo"
-    fontSize: 15
+    fontFamily: "Source Code Pro"
+    fontSize: 13
     invisibles: {}
+    lineHeight: 1.6
     showIndentGuide: true
     softWrapAtPreferredLineLength: true
   "go-plus":
