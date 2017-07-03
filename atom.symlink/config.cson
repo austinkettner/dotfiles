@@ -42,6 +42,7 @@
       "one-light-ui"
       "flatwhite-syntax"
     ]
+    titleBar: "custom"
   editor:
     fontFamily: "Source Code Pro"
     fontSize: 13

@@ -27,6 +27,7 @@ brew 'zsh'
 brew 'zsh-completions'
 
 cask 'atom'
+cask 'aptible'
 cask 'google-chrome'
 cask 'docker'
 cask 'handbrake'
