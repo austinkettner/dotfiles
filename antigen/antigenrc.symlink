@@ -1,0 +1,4 @@
+antigen use prezto
+antigen bundle git-extras
+antigen theme pure
+antigen apply
