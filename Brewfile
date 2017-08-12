@@ -28,9 +28,13 @@ brew 'zsh-completions'
 
 cask 'aptible'
 cask 'google-chrome'
+cask 'google-cloud-sdk'
 cask 'docker'
+cask 'discord'
 cask 'handbrake'
 cask 'steam'
 cask 'transmission'
 cask 'vlc'
 cask 'hyper'
+cask 'visual-studio-code'
+
