@@ -40,8 +40,10 @@ done
 
 unset config_files
 
+source $(brew --prefix nvm)/nvm.sh
+
 # Init Antigen
-antigen bundle mafredri/zsh-async
+# antigen bundle mafredri/zsh-async
 antigen bundle sindresorhus/pure
 
 # Better history
